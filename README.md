@@ -1,0 +1,1 @@
+# CSharp-Image-Optimizer\n\n## Overview\nEnterprise-grade image optimizer implementation in CSharp.\n\n## Quick Start (1-Click Build)\n\n```bash\ngit clone https://github.com/skylerblue4444/CSharp-Image-Optimizer.git\ncd CSharp-Image-Optimizer\n# Build instructions depend on the language\n```\n
